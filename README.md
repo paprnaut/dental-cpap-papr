@@ -45,7 +45,8 @@
 9. Load the MeshHolderSpacer-Wide with cut plastic straws.
 10. Slide the other hoop into the top and glue in place with superglue.
 11. Cut the 1" ID hose to length and attach to the hose fitting on the MeshHolderSpacer-Wide and the Dental PAPR - TR300 Y Adapter.
-.
+12. Connect the CPAP tubing to the connector on the Y Adapter. For the child version, it can be helpful to add a band of velcro to the "fingers" on the connector to hook up with the velcro pad on the eleastic band on the Pixi.
+13. 3M BT 30 Length Adjusting Breathing Tube to the fitting at the base of the Y-Adapter
 
 ## Disclaimer
 **Regulatory Notice**
