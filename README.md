@@ -1,6 +1,7 @@
 # Dental CPAP PAPR
 
-![Overview photo](/assets/dental-papr-system-doll.jpg)
+![System photo](/assets/dental-papr-system-doll.jpg)
+![In use photo photo](/assets/adult-dental-papr-in-use.jpg)
 
 ***Important Disclaimer: This is a prototype device, offered free-of-charge as a public service, and no claim, guarantee, or warranty of performance or suitablity for any purpose is offered or implied.  This device has not been independently certified or approved.  Use of this design or any derivatives thereof is entirely at your own risk.  By using any of these materials, you acknowledge that you have read and understood the Disclaimer at the end of this document.  Please do not use these materials if you do not understand and accept these risks.***
 
