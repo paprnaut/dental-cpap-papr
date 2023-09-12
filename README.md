@@ -51,7 +51,7 @@
 ## Disclaimer
 **Regulatory Notice**
 
-This product has not been cleared for medical use by the U.S. Food and Drug Administration. This product has not been evaluated for the prevention of specific diseases or infections, the filtering of surgical smoke or plumes, the filtering of specific amounts of viruses or bacteria, or the killing or reduction of the amount of viruses, bacteria or fungi. This product is intended for use by a single user. Performance is not guaranteed in any way. No passive protection is provided for the mouth. What limited protection for the mouth may be available requires careful placemnent and use of the handheld device.
+This product has not been cleared for medical use by the U.S. Food and Drug Administration. This product has not been evaluated for the prevention of specific diseases or infections, the filtering of surgical smoke or plumes, the filtering of specific amounts of viruses or bacteria, or the killing or reduction of the amount of viruses, bacteria or fungi. This product is intended for use by a single user. Performance is not guaranteed in any way. No passive protection is provided for the mouth. What limited protection for the mouth may be available requires careful placement and use of the handheld device.
 
 **Liability Notice**
 
