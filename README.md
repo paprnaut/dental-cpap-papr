@@ -17,6 +17,9 @@
 | Dental PAPR - MeshHolderSpacer-Wide.stl | 2 | Hoop frames. Glue screen door material onto these to hold straws in place. |
 | Dental PAPR - TR300 Y Adapter - Adult.stl | 1 | Y-splitter / adapter. Print for adult version only. |
 | Dental PAPR - TR300 Y Adapter - Child.stl | 1 | Y-splitter / adapter. Print for child version only. |
+| Dental PAPR - v1 tr300 y-splitter.3mf | 1 | Y-splitter / adapter for v1 with adjustable valves only. |
+| Dental PAPR - v1 1in pipe to CPAP adapter.3mf | 1 | CPAP hose adapter for v1 with adjustable valves only. |
+| Dental PAPR - Dental PAPR v1 - 1in pipe to 1in hose barb.3mf | 1 | 1" hose adapter for v1 with adjustable valves only. |
 
 **Purchased Parts**
 | Item | Quantity | Example Source | Notes |
@@ -32,7 +35,8 @@
 | DreamWisp Nasal CPAP Mask Fit Pack Kit | 1 | https://www.1800cpap.com/dreamwisp-nasal-cpap-mask-fitpack-kit?quantity=1&add-headgear=Yes | For adult version only |
 | Universal CPAP Tubing Hose 6' | 1 | https://www.1800cpap.com/cpap-tubing-hose-6ft | For adult version only |
 | ResMed Pixi Pediatric Nasal Mask Frame System with Standard System & Headgear | 1 | https://www.resmed.com/en-us/sleep-apnea/cpap-parts-support/sleep-apnea-full-products-list/cpap-masks/pixi/# | For child version only |
-| 1" ID Flexible Tubing | 2' | https://www.amazon.com/gp/product/B099F4LMWF | 1.5 to 2 feet are sufficient. This example has reinforcing wire which in hindsight is unnecessary and difficult to work with |
+| 1" ID Flexible Tubing | 2' | https://www.amazon.com/gp/product/B099F4LMWF | 1.5 to 2 feet are sufficient. This example has reinforcing wire which in hindsight is unnecessary and difficult to work with. |
+| True Union Ball Valve 1" with Full Port (2-Pack) | 1 | https://www.amazon.com/gp/product/B09KPBMF46/ | Full-flow valves. Seem well-built but are heavy. For v1 only. |
 
 ## Assembly
 1. Print required parts. These parts were printed in standard PLA on a filament-style 3D printer.
