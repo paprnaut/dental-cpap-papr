@@ -15,6 +15,7 @@
 | Dental PAPR - LaminarNozzleFitting-Female-Short.stl | 1 | Nut for handheld wand. |
 | Dental PAPR - LaminarNozzleFitting-Short.stl | 1 | Hose fitting for handheld wand. |
 | Dental PAPR - MeshHolderSpacer-Wide.stl | 2 | Hoop frames. Glue screen door material onto these to hold straws in place. |
+| Dental PAPR - NozzleFlowReducer d0,50.stl | 1 | Part with 0,5" opening inserts into hose fitting on Y-splitter to reduce flow to the handheld wand to improve flow to the CPAP. Tested for adult version only. |
 | Dental PAPR - TR300 Y Adapter - Adult.stl | 1 | Y-splitter / adapter. Print for adult version only. |
 | Dental PAPR - TR300 Y Adapter - Child.stl | 1 | Y-splitter / adapter. Print for child version only. |
 | Dental PAPR - v1 tr300 y-splitter.3mf | 1 | Y-splitter / adapter for v1 with adjustable valves only. |
@@ -48,9 +49,10 @@
 8. Slide the hoop with the scotch-brite (scouring pad side down) into the LaminarNozzleBody-Wide until it rests against the lip.
 9. Load the MeshHolderSpacer-Wide with cut plastic straws.
 10. Slide the other hoop into the top and glue in place with superglue.
-11. Cut the 1" ID hose to length and attach to the hose fitting on the MeshHolderSpacer-Wide and the Dental PAPR - TR300 Y Adapter.
-12. Connect the CPAP tubing to the connector on the Y Adapter. For the child version, it can be helpful to add a band of velcro to the "fingers" on the connector to hook up with the velcro pad on the eleastic band on the Pixi.
-13. 3M BT 30 Length Adjusting Breathing Tube to the fitting at the base of the Y-Adapter
+11. Place the flow reducer into the hose fitting on the Y-splitter (improves performance on adult version. Pediatric flow reducers untested).
+12. Cut the 1" ID hose to length and attach to the hose fitting on the MeshHolderSpacer-Wide and the Dental PAPR - TR300 Y Adapter.
+13. Connect the CPAP tubing to the connector on the Y Adapter. For the child version, it can be helpful to add a band of velcro to the "fingers" on the connector to hook up with the velcro pad on the eleastic band on the Pixi.
+14. 3M BT 30 Length Adjusting Breathing Tube to the fitting at the base of the Y-Adapter
 
 ## Disclaimer
 **Regulatory Notice**
